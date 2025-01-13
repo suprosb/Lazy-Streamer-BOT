@@ -23,39 +23,39 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above."
+          "description": "fs"
       },
       "API_ID": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "21720330"
       },
       "API_HASH": {
-          "description": "Get this value from https://my.telegram.org"
+          "description": "a80217f50b30502cb654b5e87c1fd42a"
       },
       "BOT_TOKEN": {
-          "description": "Get this value from @BotFather"
+          "description": "7599296541:AAFlArliuXECmdJwU_YsVcQl4LNkkuWAKwg"
       },
       "BIN_CHANNEL": {
-          "description": "The BIN Channel ID. Read the readme for more info about this var"
+          "description": "-1002292291261"
           
       },
       "DATABASE_URL": {
-          "description": "MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help search for a tutorial on youtbe"
+          "description": "mongodb+srv://suproboiragi2:t4GwmmrWCkUcX3Ui@cluster0.nn4hh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
       },
       "OWNER_ID": {
-          "description": "Your Telegram User ID  like 1234509"
+          "description": "-1002417857429"
       },
       "BANNED_CHANNELS": {
           "description": "Put IDs of Banned Channels where bot will not work. You can add multiple IDs & separate with Space.",
           "required": false
       },
       "UPDATES_CHANNEL": {
-          "description": "Put a Public Channel Username  without @, so every user have to Join that channel to use the bot. Must add bot to channel as Admin to work properly.IF DONT WANT KEEP VALUE AS None",
+          "description": "nowbotupdates",
           "value":"None",
           "required": false
           
       },
       "OWNER_USERNAME": {
-          "description": "Enter your username without @  example  LazyDeveloper."
+          "description": "Akash_Roy_Official."
       },
       "SLEEP_THRESHOLD": {
           "description": "Floodwait Sleep timer. Read the readme for more info about this var",
